@@ -1,5 +1,5 @@
 package lab_1;
-
+//added to github
 public class Lab_1_1 {
 	
 	public static double f(double x){
